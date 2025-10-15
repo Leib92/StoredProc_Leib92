@@ -5,7 +5,7 @@
 namespace StoredProcedure123.Migrations
 {
     /// <inheritdoc />
-    public partial class initProc : Migration
+    public partial class test : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

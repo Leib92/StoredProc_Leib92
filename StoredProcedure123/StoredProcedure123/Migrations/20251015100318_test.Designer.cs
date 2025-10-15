@@ -11,8 +11,8 @@ using StoredProcedure123.Data;
 namespace StoredProcedure123.Migrations
 {
     [DbContext(typeof(StoredProcDbContext))]
-    [Migration("20251010114911_initProc")]
-    partial class initProc
+    [Migration("20251015100318_test")]
+    partial class test
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
